@@ -6,7 +6,7 @@
   "publisher": "Verckys Orwa",
   "repository": {
     "type": "git",
-    "url": "https://github.com/verckysorwa/directory-dive.git"
+    "url": "https://github.com/VerckysOrwa/Directory-Dive"
   },
   "engines": {
     "vscode": "^1.90.0"
