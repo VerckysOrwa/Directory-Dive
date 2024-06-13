@@ -127,7 +127,7 @@ Remove a file from bookmarks.
 
 ## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request on [GitHub](https://github.com/yourusername/directory-dive).
+Contributions are welcome! Please open an issue or submit a pull request on [GitHub](https://github.com/VerckysOrwa/Directory-Dive).
 
 ## License
 

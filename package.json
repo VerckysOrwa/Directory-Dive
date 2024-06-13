@@ -1,9 +1,9 @@
 {
   "name": "directory-dive",
-  "displayName": "Directory Drive",
+  "displayName": "Directory Dive",
   "description": "Directory Dive is a powerful VSCode extension designed to streamline your workflow by allowing you to quickly search for and open files without manually navigating through complex directory structures.",
   "version": "0.0.1",
-  "publisher": "Verckys Orwa",
+  "publisher": "VerckysOrwa",
   "repository": {
     "type": "git",
     "url": "https://github.com/VerckysOrwa/Directory-Dive"
@@ -75,9 +75,7 @@
       }
     ],
     "scripts": {
-    "vscode:prepublish": "npm run compile",
-    "compile": "tsc -p ./",
-    "watch": "tsc -watch -p ./",
+    "vscode:prepublish": "echo 'No prepublish tasks needed'",
     "pretest": "npm run compile && npm run lint",
     "lint": "eslint src --ext ts",
     "test": "node ./out/test/runTest.js"
