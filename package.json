@@ -4,6 +4,10 @@
   "description": "Directory Dive is a powerful VSCode extension designed to streamline your workflow by allowing you to quickly search for and open files without manually navigating through complex directory structures.",
   "version": "0.0.1",
   "publisher": "Verckys Orwa",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/verckysorwa/directory-dive.git"
+  },
   "engines": {
     "vscode": "^1.90.0"
   },
